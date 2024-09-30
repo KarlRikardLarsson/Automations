@@ -23,6 +23,3 @@ Denna repository innehåller länkar till automationsprojekt utvecklade för **E
 
 ---
 
-## 📋 Sammanfattning
-
-Varje automation som listas ovan är utformad för att öka effektiviteten i **Qlik Cloud**-miljöer genom att minska manuella uppgifter och ge djupare insikter i data och processer. Klicka på länkarna för att lära dig mer om varje automation och hur de kan implementeras i ditt arbetsflöde.
