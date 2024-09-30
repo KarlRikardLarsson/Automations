@@ -1,6 +1,6 @@
 # 🛠️ Min GitHub-projektkollektion
 
-Denna repository innehåller länkar till automationsprojekt utvecklade för **Exsitec**. Varje automation är utformad för att effektivisera arbetsflöden och optimera processer inom Qlik-miljöer.
+Denna repository innehåller länkar till automationsprojekt utvecklade för Exsitec. Varje automation är utformad för att effektivisera arbetsflöden och optimera processer inom Qlik-miljöer.
 
 ---
 
